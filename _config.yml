@@ -1,3 +1,7 @@
+name: Stoel10Hairdo
+favicon: null
+layout_spectrum: 0.04041088814847171
+typography_spectrum: 0.3553191
 author:
   name: Miranda Westerhof
   email: stoel10hairdo@gmail.com
@@ -14,17 +18,28 @@ collections:
       format: rss
       number: 10
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e214c9d-906e-41a4-a75b-f428c9978447.jpg'
+title: Stoel10Hairdo
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.2212766
-  lightness: 0.8340425
   brandColors:
     - '#FEFFF5'
     - '#78746B'
     - '#A49B8A'
     - '#DADBCB'
     - '#0C0B0A'
+  brandStrength: 0.2212766
+  lightness: 0.8340425
+  saturation: 1
   rhythmicContrast: 0.7234042
-typography_spectrum: 0.3553191
-layout_spectrum: 0.04041088814847171
-name: "Haar'Em"
+purpose: []
