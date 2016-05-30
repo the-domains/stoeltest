@@ -1,0 +1,14 @@
+layout_spectrum: 0.04041088814847171
+typography_spectrum: 0.5594737608917058
+color:
+  brandStrength: 0.13804525625891984
+  lightness: 0.8529549068771303
+  saturation: 0.7453986117616296
+  rhythmicContrast: 0.6496422078926116
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+name: StoelTest
