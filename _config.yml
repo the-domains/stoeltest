@@ -1,4 +1,3 @@
-layout_spectrum: 0.04041088814847171
 typography_spectrum: 0.5594737608917058
 color:
   brandStrength: 0.13804525625891984
@@ -11,4 +10,9 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
-name: StoelTest
+layout_spectrum: 0.04041088814847171
+author:
+  name: Miranda Westerhof
+  email: stoel10hairdo@gmail.com
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e214c9d-906e-41a4-a75b-f428c9978447.jpg'
+name: "Haar'Em"
