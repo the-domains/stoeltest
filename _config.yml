@@ -38,8 +38,8 @@ color:
     - '#A49B8A'
     - '#DADBCB'
     - '#0C0B0A'
-  brandStrength: 0.2212766
+  brandStrength: 0.9375
   lightness: 0.8340425
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0.7234042
 purpose: []
